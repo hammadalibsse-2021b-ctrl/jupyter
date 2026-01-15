@@ -1,5 +1,5 @@
 (tryjupyter)=
-
+print(" hello world")
 # Try Jupyter
 
 ```{contents} Contents
